@@ -1,22 +1,139 @@
 {
-    "feedback": [
-        {
-            "id": 1,
-            "rating": 10,
-            "user_name": "Tony Stark",
-            "text": "You are the ironman of this world"
-        },
-        {
-            "id": 2,
-            "rating": 9,
-            "user_name": "Bruce Wayne",
-            "text": "You are the batman of this world"
-        },
-        {
-            "id": 3,
-            "rating": 8,
-            "user_name": "Peter Parker",
-            "text": "You are the spiderman of this world"
-        }
-    ]
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "user_name": "Tony Stark",
+      "text": "You are the ironman of this world"
+    },
+    {
+      "id": 2,
+      "rating": 9,
+      "user_name": "Bruce Wayne",
+      "text": "You are the batman of this world"
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "user_name": "Peter Parker",
+      "text": "You are the spiderman of this world"
+    }
+  ],
+  "adminCredentails": {
+    "email": "admin@gmail.com",
+    "password": "masai"
+  },
+
+  "books": [
+    {
+        "image": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "bookName": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+            "genre": "fiction",
+            "edition": "2021",
+            "publisher": "Bloomsbury",
+            "cost": 1299,
+            "borrowed": false
+      },
+    {
+      "image": "http://dummyimage.com/192x100.png/5fa2dd/ffffff",
+      "bookName": "Antelope, roan",
+      "author": "Chastity",
+      "genre": "Science",
+      "publisher": "Inon Ace",
+      "edition": 2020,
+      "cost": 9835,
+      "borrowed": false
+    },
+    {
+      "image": "http://dummyimage.com/120x100.png/cc0000/ffffff",
+      "bookName": "Puku",
+      "author": "Calli",
+      "genre": "Fiction",
+      "publisher": "Cerebellum Thalamus B",
+      "edition": 2022,
+      "cost": 7877,
+      "borrowed" : false
+    },
+    {
+      "image": "http://dummyimage.com/206x100.png/cc0000/ffffff",
+      "bookName": "Lory, rainbow",
+      "author": "Axe",
+      "genre": "Science",
+      "publisher": "METHADONE HYDROCHLORIDE",
+      "edition": 2020,
+      "cost": 6481,
+      "borrowed" : false
+    },
+    {
+      "image": "http://dummyimage.com/123x100.png/dddddd/000000",
+      "bookName": "Barbet, levaillant's",
+      "author": "Rossie",
+      "genre": "Tech",
+      "publisher": "SHISEIDO SHEER MATIFYING COMPACT (REFILL)",
+      "edition": 2022,
+      "cost": 4589,
+      "borrowed" : false
+    },
+    {
+      "image": "http://dummyimage.com/186x100.png/cc0000/ffffff",
+      "bookName": "Great cormorant",
+      "author": "Erna",
+      "genre": "Business",
+      "publisher": "Rite Aid RENEWAL Sport",
+      "edition": 2022,
+      "cost": 9813,
+      "borrowed" : false
+    },
+    {
+      "image": "http://dummyimage.com/197x100.png/cc0000/ffffff",
+      "bookName": "European stork",
+      "author": "Karney",
+      "genre": "Fiction",
+      "publisher": "LBEL Couleur Luxe Rouge Amplifier XP amplifying SPF 15",
+      "edition": 2022,
+      "cost": 7218,
+      "borrowed" : false
+    },
+    {
+      "image": "http://dummyimage.com/163x100.png/5fa2dd/ffffff",
+      "bookName": "Baleen whale",
+      "author": "Emmeline",
+      "genre": "Business",
+      "publisher": "ibuprofen pm",
+      "edition": 2020,
+      "cost": 6620,
+      "borrowed" : false
+    },
+    {
+      "image": "http://dummyimage.com/215x100.png/cc0000/ffffff",
+      "bookName": "Common grenadier",
+      "author": "Arie",
+      "genre": "Fiction",
+      "publisher": "Water Oak",
+      "edition": 2022,
+      "cost": 5558,
+      "borrowed" : false
+    },
+    {
+      "image": "http://dummyimage.com/235x100.png/cc0000/ffffff",
+      "bookName": "Lava gull",
+      "author": "Martguerita",
+      "genre": "Science",
+      "publisher": "Eczema-HP",
+      "edition": 2022,
+      "cost": 112,
+      "borrowed" : false
+    },
+    {
+      "image": "http://dummyimage.com/247x100.png/ff4444/ffffff",
+      "bookName": "Beaver, eurasian",
+      "author": "Hayward",
+      "genre": "Business",
+      "publisher": "Octreotide",
+      "edition": 2022,
+      "cost": 2467,
+      "borrowed" : false
+    }
+  ]
 }
